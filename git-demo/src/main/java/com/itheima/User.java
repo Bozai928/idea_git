@@ -11,5 +11,5 @@ public class User {
     private String username;
     private String password;
     private String age;
-    private String sex;
+    private String sex;//前端开发
 }
