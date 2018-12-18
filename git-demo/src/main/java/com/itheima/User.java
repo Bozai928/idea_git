@@ -12,4 +12,5 @@ public class User {
     private String password;
     private String age;
     private String sex;
+    private String address;
 }
